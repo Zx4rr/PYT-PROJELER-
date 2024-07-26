@@ -1,4 +1,4 @@
-# def hesap_makinesi():
+
 gecmis = []
 
 while True:
